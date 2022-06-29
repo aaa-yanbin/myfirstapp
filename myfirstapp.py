@@ -10,3 +10,6 @@ st.write("""
 ## level 3
 This is normal text.
 """)
+
+st.write("#### this is a code block:")
+st.code("import pandas as pd")
