@@ -15,3 +15,6 @@ st.write("#### this is a code block:")
 st.code("import pandas as pd")
 
 st.image("https://raw.githubusercontent.com/aaa-yanbin/myfirstapp/main/AAA%20(a)%20Logo%20Reverse.png")
+
+placeholder1 = st.empty()
+placeholder1.write("whatever....")
